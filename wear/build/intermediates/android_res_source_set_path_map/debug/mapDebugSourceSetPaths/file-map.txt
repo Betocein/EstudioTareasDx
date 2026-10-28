@@ -1,0 +1,9 @@
+com.estudio.app.wear-pngs-0 C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\build\generated\res\pngs\debug
+com.estudio.app.wear-resValues-1 C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\build\generated\res\resValues\debug
+com.estudio.app.wear-updated_navigation_xml-2 C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\build\generated\updated_navigation_xml\debug
+com.estudio.app.wear-packageDebugResources-3 C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.estudio.app.wear-packageDebugResources-4 C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.estudio.app.wear-debug-5 C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\build\intermediates\merged_res\debug\mergeDebugResources
+com.estudio.app.wear-debug-6 C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\debug\res
+com.estudio.app.wear-main-7 C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\res
+gradleHome-0 C:\Users\dante\.gradle

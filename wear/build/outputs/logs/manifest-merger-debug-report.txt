@@ -1,0 +1,381 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:1:1-22:12
+MERGED from [androidx.wear.compose:compose-material-core:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\6106a82397e70c1564aea3edebe1edde\transformed\compose-material-core-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.wear.compose:compose-foundation:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\b7c7f262a86caa7a779910f4d0894246\transformed\compose-foundation-1.4.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.wear.compose:compose-material:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\391fce9f563beb980e60099fc2a5bdc4\transformed\compose-material-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\c181567a3cce9233c4e5faae4f6a6060\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\a8894c120441ac139bd950295341ed7d\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\71d3b96cd09a57d8da4b1fa4d5b35566\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\4024b461b9e7040c87fb470d3ac6f3b2\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\e8db1091eb0640a0b7f50faf31dc0ee8\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\1bdc508f4bc5157d89e766900f39952c\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\bb5d74550090375148c8fa7ddd1b507c\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\3458f27f717b8e3bf7e4bb91a9353389\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\c3fe8ebee5b95d22aa1ad649327dcec2\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\334dae6f315b51510e02bdb3654ead57\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\97b93fe65ef83ffb4b83ceb2bf9bce58\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\5e8a0260277bb26861c2a34c75d5863d\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-wearable:18.2.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\b010cbd45f87cbbc69b42a9eaf01be1f\transformed\play-services-wearable-18.2.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\0beae75631b7ee47511657a84ad2f997\transformed\play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\2de99b13c304ddb93cabaee9e74b7d2b\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\10c6646e2f7966da9cd7f158c5c2c890\transformed\play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\d517d00533e8a46a7048768f900edd55\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.2] C:\Users\dante\.gradle\caches\9.6.0\transforms\86ea581505e31cc231920dcdee48ebf4\transformed\activity-1.9.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.2] C:\Users\dante\.gradle\caches\9.6.0\transforms\d93793790681f1582a5caf12738cdad8\transformed\activity-ktx-1.9.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.2] C:\Users\dante\.gradle\caches\9.6.0\transforms\5c7be442f30ae49da81b4cc637c3c8ee\transformed\activity-compose-1.9.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\aebd351166da24a4427988de8e3fcd96\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\2d957fc964c433f62cfb876b1dbbfa1c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\a4fd39f8ba684eca9c6656a15820f4fa\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\3a577f45ccdf6e77aed41ab54889a6aa\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\ff0e4ce5b62228d99a5458f403a0eefa\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\eba75fa1cbe7eb91f3ebc14b5d9c2371\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\6cb83b4398644275c351aa41f7bf5f9f\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\3ddbe5fd8bf6ff6e25b71c1b2414f4b1\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\975ea65958f99f2d00f416e9da5bc07c\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\dc6cbedf5945a1cfc6838300d3d71f91\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\5e07bf6e83f3746d1752e1455547cda2\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\82ca8d36568d07da43611cd8ff63a05f\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\4bd9b4186cff7fc032c58e67ebb99163\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\b0ce4f006b5b90f743f1b9b025ed067c\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\a6090a787c5bdaf4536a036815bc72a7\transformed\lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\9b7b69121bf2a4dcebe29a703b1ce88d\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\828eeb25cbbe9d7f7ebf7eca91d6f626\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\bd420b28dfe1be3e411ab98ef3e1d97c\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\9a4a15cdf404954234cc67c9cc8f7baf\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\df9f714599c80dd0244600ad5d4d6af8\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\20b56164afaf1a5c9a5cb6aada12c05f\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\0d428a3639d4c614935c5936b9687acd\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\c1210536c8c169453a076b8f13f6b43b\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\bd6ba2317ac02f481fdeb909e92bd34c\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\89204a917a8a45f7b3ac3b2dd473bfc6\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\f9950b2e55609299e4aa5539fe49cb89\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\0c0a4040aac67d6db670625be52228d7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\6be49baea6327af861f90ccf3856fa65\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\5bc348879efe21ccd9cf86c5cc203270\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\dfb3fb566c00303108010d9416a399de\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:1:11-69
+uses-feature#android.hardware.type.watch
+ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:2:5-64
+	android:name
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:2:19-61
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:3:5-77
+	android:name
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:3:22-74
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:4:22-63
+application
+ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:5:5-21:19
+INJECTED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [androidx.wear.compose:compose-foundation:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\b7c7f262a86caa7a779910f4d0894246\transformed\compose-foundation-1.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.wear.compose:compose-foundation:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\b7c7f262a86caa7a779910f4d0894246\transformed\compose-foundation-1.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-wearable:18.2.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\b010cbd45f87cbbc69b42a9eaf01be1f\transformed\play-services-wearable-18.2.0\AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-wearable:18.2.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\b010cbd45f87cbbc69b42a9eaf01be1f\transformed\play-services-wearable-18.2.0\AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\0beae75631b7ee47511657a84ad2f997\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\0beae75631b7ee47511657a84ad2f997\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\2de99b13c304ddb93cabaee9e74b7d2b\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\2de99b13c304ddb93cabaee9e74b7d2b\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\10c6646e2f7966da9cd7f158c5c2c890\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\10c6646e2f7966da9cd7f158c5c2c890\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\a4fd39f8ba684eca9c6656a15820f4fa\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\a4fd39f8ba684eca9c6656a15820f4fa\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\dc6cbedf5945a1cfc6838300d3d71f91\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\dc6cbedf5945a1cfc6838300d3d71f91\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\df9f714599c80dd0244600ad5d4d6af8\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\df9f714599c80dd0244600ad5d4d6af8\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\f9950b2e55609299e4aa5539fe49cb89\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\f9950b2e55609299e4aa5539fe49cb89\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\0c0a4040aac67d6db670625be52228d7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\0c0a4040aac67d6db670625be52228d7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\dc6cbedf5945a1cfc6838300d3d71f91\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:6:9-32
+	android:theme
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:7:9-59
+meta-data#com.google.android.wearable.standalone
+ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:8:9-97
+	android:value
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:8:74-94
+	android:name
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:8:20-73
+activity#com.estudio.app.wear.MainActivity
+ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:9:9-14:20
+	android:exported
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:9:48-71
+	android:name
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:9:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:12:27-74
+service#com.estudio.app.wear.DatosService
+ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:15:9-20:19
+	android:exported
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:15:47-70
+	android:name
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:15:18-46
+intent-filter#action:name:com.google.android.gms.wearable.DATA_CHANGED+data:host:*+data:path:/datos+data:scheme:wear
+ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:16:13-19:29
+action#com.google.android.gms.wearable.DATA_CHANGED
+ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:17:17-87
+	android:name
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:17:25-84
+data
+ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:18:17-86
+	android:path
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:18:62-83
+	android:host
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:18:45-61
+	android:scheme
+		ADDED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml:18:23-44
+uses-sdk
+INJECTED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml
+MERGED from [androidx.wear.compose:compose-material-core:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\6106a82397e70c1564aea3edebe1edde\transformed\compose-material-core-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.wear.compose:compose-material-core:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\6106a82397e70c1564aea3edebe1edde\transformed\compose-material-core-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.wear.compose:compose-foundation:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\b7c7f262a86caa7a779910f4d0894246\transformed\compose-foundation-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear.compose:compose-foundation:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\b7c7f262a86caa7a779910f4d0894246\transformed\compose-foundation-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear.compose:compose-material:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\391fce9f563beb980e60099fc2a5bdc4\transformed\compose-material-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.wear.compose:compose-material:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\391fce9f563beb980e60099fc2a5bdc4\transformed\compose-material-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\c181567a3cce9233c4e5faae4f6a6060\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\c181567a3cce9233c4e5faae4f6a6060\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\a8894c120441ac139bd950295341ed7d\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\a8894c120441ac139bd950295341ed7d\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\71d3b96cd09a57d8da4b1fa4d5b35566\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\71d3b96cd09a57d8da4b1fa4d5b35566\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\4024b461b9e7040c87fb470d3ac6f3b2\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\4024b461b9e7040c87fb470d3ac6f3b2\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\e8db1091eb0640a0b7f50faf31dc0ee8\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\e8db1091eb0640a0b7f50faf31dc0ee8\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\1bdc508f4bc5157d89e766900f39952c\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\1bdc508f4bc5157d89e766900f39952c\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\bb5d74550090375148c8fa7ddd1b507c\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\bb5d74550090375148c8fa7ddd1b507c\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\3458f27f717b8e3bf7e4bb91a9353389\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\3458f27f717b8e3bf7e4bb91a9353389\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\c3fe8ebee5b95d22aa1ad649327dcec2\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\c3fe8ebee5b95d22aa1ad649327dcec2\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\334dae6f315b51510e02bdb3654ead57\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\334dae6f315b51510e02bdb3654ead57\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\97b93fe65ef83ffb4b83ceb2bf9bce58\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\97b93fe65ef83ffb4b83ceb2bf9bce58\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\5e8a0260277bb26861c2a34c75d5863d\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\5e8a0260277bb26861c2a34c75d5863d\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:18.2.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\b010cbd45f87cbbc69b42a9eaf01be1f\transformed\play-services-wearable-18.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-wearable:18.2.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\b010cbd45f87cbbc69b42a9eaf01be1f\transformed\play-services-wearable-18.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\0beae75631b7ee47511657a84ad2f997\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\0beae75631b7ee47511657a84ad2f997\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\2de99b13c304ddb93cabaee9e74b7d2b\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\2de99b13c304ddb93cabaee9e74b7d2b\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\10c6646e2f7966da9cd7f158c5c2c890\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\10c6646e2f7966da9cd7f158c5c2c890\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\d517d00533e8a46a7048768f900edd55\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\d517d00533e8a46a7048768f900edd55\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.2] C:\Users\dante\.gradle\caches\9.6.0\transforms\86ea581505e31cc231920dcdee48ebf4\transformed\activity-1.9.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.2] C:\Users\dante\.gradle\caches\9.6.0\transforms\86ea581505e31cc231920dcdee48ebf4\transformed\activity-1.9.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.2] C:\Users\dante\.gradle\caches\9.6.0\transforms\d93793790681f1582a5caf12738cdad8\transformed\activity-ktx-1.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.2] C:\Users\dante\.gradle\caches\9.6.0\transforms\d93793790681f1582a5caf12738cdad8\transformed\activity-ktx-1.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.2] C:\Users\dante\.gradle\caches\9.6.0\transforms\5c7be442f30ae49da81b4cc637c3c8ee\transformed\activity-compose-1.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.2] C:\Users\dante\.gradle\caches\9.6.0\transforms\5c7be442f30ae49da81b4cc637c3c8ee\transformed\activity-compose-1.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\aebd351166da24a4427988de8e3fcd96\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\aebd351166da24a4427988de8e3fcd96\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\2d957fc964c433f62cfb876b1dbbfa1c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\2d957fc964c433f62cfb876b1dbbfa1c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\a4fd39f8ba684eca9c6656a15820f4fa\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\a4fd39f8ba684eca9c6656a15820f4fa\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\3a577f45ccdf6e77aed41ab54889a6aa\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\3a577f45ccdf6e77aed41ab54889a6aa\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\ff0e4ce5b62228d99a5458f403a0eefa\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\ff0e4ce5b62228d99a5458f403a0eefa\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\eba75fa1cbe7eb91f3ebc14b5d9c2371\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\eba75fa1cbe7eb91f3ebc14b5d9c2371\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\6cb83b4398644275c351aa41f7bf5f9f\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\6cb83b4398644275c351aa41f7bf5f9f\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\3ddbe5fd8bf6ff6e25b71c1b2414f4b1\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\3ddbe5fd8bf6ff6e25b71c1b2414f4b1\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\975ea65958f99f2d00f416e9da5bc07c\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\975ea65958f99f2d00f416e9da5bc07c\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\dc6cbedf5945a1cfc6838300d3d71f91\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\dc6cbedf5945a1cfc6838300d3d71f91\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\5e07bf6e83f3746d1752e1455547cda2\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\5e07bf6e83f3746d1752e1455547cda2\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\82ca8d36568d07da43611cd8ff63a05f\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\82ca8d36568d07da43611cd8ff63a05f\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\4bd9b4186cff7fc032c58e67ebb99163\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\4bd9b4186cff7fc032c58e67ebb99163\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\b0ce4f006b5b90f743f1b9b025ed067c\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\b0ce4f006b5b90f743f1b9b025ed067c\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\a6090a787c5bdaf4536a036815bc72a7\transformed\lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\a6090a787c5bdaf4536a036815bc72a7\transformed\lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\9b7b69121bf2a4dcebe29a703b1ce88d\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\9b7b69121bf2a4dcebe29a703b1ce88d\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\828eeb25cbbe9d7f7ebf7eca91d6f626\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\828eeb25cbbe9d7f7ebf7eca91d6f626\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\bd420b28dfe1be3e411ab98ef3e1d97c\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\bd420b28dfe1be3e411ab98ef3e1d97c\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\9a4a15cdf404954234cc67c9cc8f7baf\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\9a4a15cdf404954234cc67c9cc8f7baf\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\df9f714599c80dd0244600ad5d4d6af8\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\df9f714599c80dd0244600ad5d4d6af8\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\20b56164afaf1a5c9a5cb6aada12c05f\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\20b56164afaf1a5c9a5cb6aada12c05f\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\0d428a3639d4c614935c5936b9687acd\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\0d428a3639d4c614935c5936b9687acd\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\c1210536c8c169453a076b8f13f6b43b\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\c1210536c8c169453a076b8f13f6b43b\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\bd6ba2317ac02f481fdeb909e92bd34c\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\bd6ba2317ac02f481fdeb909e92bd34c\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\89204a917a8a45f7b3ac3b2dd473bfc6\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\89204a917a8a45f7b3ac3b2dd473bfc6\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\f9950b2e55609299e4aa5539fe49cb89\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\f9950b2e55609299e4aa5539fe49cb89\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\0c0a4040aac67d6db670625be52228d7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\0c0a4040aac67d6db670625be52228d7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\6be49baea6327af861f90ccf3856fa65\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\6be49baea6327af861f90ccf3856fa65\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\5bc348879efe21ccd9cf86c5cc203270\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\5bc348879efe21ccd9cf86c5cc203270\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\dfb3fb566c00303108010d9416a399de\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\dfb3fb566c00303108010d9416a399de\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\src\main\AndroidManifest.xml
+uses-library#wear-sdk
+ADDED from [androidx.wear.compose:compose-foundation:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\b7c7f262a86caa7a779910f4d0894246\transformed\compose-foundation-1.4.0\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.wear.compose:compose-foundation:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\b7c7f262a86caa7a779910f4d0894246\transformed\compose-foundation-1.4.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.wear.compose:compose-foundation:1.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\b7c7f262a86caa7a779910f4d0894246\transformed\compose-foundation-1.4.0\AndroidManifest.xml:24:13-36
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\0beae75631b7ee47511657a84ad2f997\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\0beae75631b7ee47511657a84ad2f997\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\0beae75631b7ee47511657a84ad2f997\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\0beae75631b7ee47511657a84ad2f997\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\10c6646e2f7966da9cd7f158c5c2c890\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\10c6646e2f7966da9cd7f158c5c2c890\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\10c6646e2f7966da9cd7f158c5c2c890\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\a4fd39f8ba684eca9c6656a15820f4fa\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\df9f714599c80dd0244600ad5d4d6af8\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\df9f714599c80dd0244600ad5d4d6af8\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\0c0a4040aac67d6db670625be52228d7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\0c0a4040aac67d6db670625be52228d7\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\a4fd39f8ba684eca9c6656a15820f4fa\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\a4fd39f8ba684eca9c6656a15820f4fa\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\a4fd39f8ba684eca9c6656a15820f4fa\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\a4fd39f8ba684eca9c6656a15820f4fa\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\a4fd39f8ba684eca9c6656a15820f4fa\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\a4fd39f8ba684eca9c6656a15820f4fa\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\dante\.gradle\caches\9.6.0\transforms\a4fd39f8ba684eca9c6656a15820f4fa\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\dc6cbedf5945a1cfc6838300d3d71f91\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\dc6cbedf5945a1cfc6838300d3d71f91\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\dc6cbedf5945a1cfc6838300d3d71f91\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.estudio.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\dc6cbedf5945a1cfc6838300d3d71f91\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\dc6cbedf5945a1cfc6838300d3d71f91\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\dc6cbedf5945a1cfc6838300d3d71f91\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\dc6cbedf5945a1cfc6838300d3d71f91\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\dc6cbedf5945a1cfc6838300d3d71f91\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.estudio.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\dc6cbedf5945a1cfc6838300d3d71f91\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\dc6cbedf5945a1cfc6838300d3d71f91\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\df9f714599c80dd0244600ad5d4d6af8\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\df9f714599c80dd0244600ad5d4d6af8\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\dante\.gradle\caches\9.6.0\transforms\df9f714599c80dd0244600ad5d4d6af8\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\dante\.gradle\caches\9.6.0\transforms\9eca34246c8ca32942b7d81325d2afed\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

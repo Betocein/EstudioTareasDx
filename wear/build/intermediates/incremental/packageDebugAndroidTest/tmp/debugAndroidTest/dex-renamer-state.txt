@@ -1,0 +1,7 @@
+#Tue Oct 27 14:11:18 MST 2026
+base.0=C\:\\Users\\dante\\Downloads\\Aurelio\\EstudioTareas-final\\EstudioTareas\\wear\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=C\:\\Users\\dante\\Downloads\\Aurelio\\EstudioTareas-final\\EstudioTareas\\wear\\build\\intermediates\\global_synthetics_dex\\debugAndroidTest\\generateDebugAndroidTestGlobalSynthetics\\classes.dex
+path.0=0/classes.dex
+path.1=classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

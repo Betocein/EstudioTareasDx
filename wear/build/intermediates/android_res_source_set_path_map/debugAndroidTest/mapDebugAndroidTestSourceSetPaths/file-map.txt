@@ -1,0 +1,6 @@
+com.estudio.app.wear.test.wear-androidTest-0 C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\build\generated\res\resValues\androidTest\debug
+com.estudio.app.wear.test.wear-updated_navigation_xml-1 C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\build\generated\updated_navigation_xml\debugAndroidTest
+com.estudio.app.wear.test.wear-mergeDebugAndroidTestResources-2 C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.estudio.app.wear.test.wear-mergeDebugAndroidTestResources-3 C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.estudio.app.wear.test.wear-debugAndroidTest-4 C:\Users\dante\Downloads\Aurelio\EstudioTareas-final\EstudioTareas\wear\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+gradleHome-0 C:\Users\dante\.gradle
